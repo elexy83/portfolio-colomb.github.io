@@ -9,5 +9,5 @@
   - **CSS:** Langage de mise en forme
   - **Bootstrap:** Framwork CSS
   - **Git:** logiciel de gestion de version
-  - **Github:** forge logiciel en ligne utilisnat git
+  - **Github:** forge logiciel en ligne utilisant git
 
